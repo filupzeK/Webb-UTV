@@ -1,0 +1,24 @@
+body{
+    background-image: url("./img/showcase.jpg");
+}
+h1{
+    color: blue;
+    background-color: yellow;
+    text-align: center;
+    border: 3px solid black;
+    
+}
+.grey-box{
+border: 1.5px #000000 solid;
+ border-radius: 2px;
+ background-color: rgb(195, 192, 192);
+ margin: 15px;
+ 
+}
+
+h2{
+    text-align: center;
+}
+.red-box{
+    text-align: center;
+}
