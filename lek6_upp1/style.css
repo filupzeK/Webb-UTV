@@ -1,0 +1,22 @@
+body{
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    grid-template-rows: 15vh 10vh 60vh 10vh;
+    align-items: stretch;
+    justify-items: center;
+}
+
+h1{
+    align-items: center;
+    
+}
+
+
+aside{
+    grid-column: 1/2;
+}
+
+aside img{
+width: 90%;
+height: auto;
+}

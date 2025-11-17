@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\filip.kaletka\\Documents\\Webb UTV\\lek5_upp1\\lek5_upp1\\lek5_upp1.csproj": {}
+    "C:\\Users\\filip.kaletka\\Documents\\Webb UTV\\prov1web\\prov1web\\prov1web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\filip.kaletka\\Documents\\Webb UTV\\lek5_upp1\\lek5_upp1\\lek5_upp1.csproj": {
+    "C:\\Users\\filip.kaletka\\Documents\\Webb UTV\\prov1web\\prov1web\\prov1web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\filip.kaletka\\Documents\\Webb UTV\\lek5_upp1\\lek5_upp1\\lek5_upp1.csproj",
-        "projectName": "lek5_upp1",
-        "projectPath": "C:\\Users\\filip.kaletka\\Documents\\Webb UTV\\lek5_upp1\\lek5_upp1\\lek5_upp1.csproj",
+        "projectUniqueName": "C:\\Users\\filip.kaletka\\Documents\\Webb UTV\\prov1web\\prov1web\\prov1web.csproj",
+        "projectName": "prov1web",
+        "projectPath": "C:\\Users\\filip.kaletka\\Documents\\Webb UTV\\prov1web\\prov1web\\prov1web.csproj",
         "packagesPath": "C:\\Users\\filip.kaletka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\filip.kaletka\\Documents\\Webb UTV\\lek5_upp1\\lek5_upp1\\obj\\",
+        "outputPath": "C:\\Users\\filip.kaletka\\Documents\\Webb UTV\\prov1web\\prov1web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

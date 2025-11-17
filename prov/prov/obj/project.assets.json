@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\filip.kaletka\\Documents\\Webb UTV\\lek5_upp1\\lek5_upp1\\lek5_upp1.csproj",
-      "projectName": "lek5_upp1",
-      "projectPath": "C:\\Users\\filip.kaletka\\Documents\\Webb UTV\\lek5_upp1\\lek5_upp1\\lek5_upp1.csproj",
+      "projectUniqueName": "C:\\Users\\filip.kaletka\\Documents\\Webb UTV\\prov\\prov\\prov.csproj",
+      "projectName": "prov",
+      "projectPath": "C:\\Users\\filip.kaletka\\Documents\\Webb UTV\\prov\\prov\\prov.csproj",
       "packagesPath": "C:\\Users\\filip.kaletka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\filip.kaletka\\Documents\\Webb UTV\\lek5_upp1\\lek5_upp1\\obj\\",
+      "outputPath": "C:\\Users\\filip.kaletka\\Documents\\Webb UTV\\prov\\prov\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
